@@ -1,5 +1,9 @@
 # Search Service
 
+**Offeria — a product by [Al‑Wahha Al‑Sehriya](https://github.com/Al-Wahha-Al-Sehriya).**
+
+[Company website](https://wahasehriya.com/) · [Offeria repositories](https://github.com/offeria-io)
+
 ## Description
 The Search Service provides high-performance searching and filtering for materials and RFQs in the Offeria platform. It leverages Elasticsearch to index data and provide full-text search capabilities.
 
